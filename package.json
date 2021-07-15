@@ -4,7 +4,7 @@
   "description": "Simple Redis App",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "nodemon --watch views",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ol4juwon",
